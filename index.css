@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(28, 18, 47);
+}
+
+h1{
+    color: rgb(206, 178, 233);
+    text-align: center;
+}
+
+h2{
+    color: yellow;
+}
+
+.listas{
+    color: #fff;
+    background-color: rgb(42, 66, 111);
+    border-radius: 8px;
+    padding-bottom: 2px;
+    padding-left: 11px;
+}
+.conteudo-principal{
+    background-color: rgb(48, 46, 52);
+    margin-left: 61px;
+    margin-right: 61px;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 12px;
+    border-radius: 8px;
+}
+
+.tabela{
+    background-color: rgb(73, 81, 81);
+    color: #fff;
+    border-radius: 8px;
+    padding-left: 11px;
+}
+
+.direitos{
+    color: #9b9b9b;
+    text-align: center;
+    background-color: rgb(48, 46, 52);
+    align-items: end;
+    margin-top: 10%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-bottom: 1px;
+}
